@@ -109,7 +109,7 @@ where ``` username ``` is your username<img src="https://myoctocat.com/assets/im
 
 ## If all works Yay you have successfully linked your github cli tool to your github account
 
-# Happy PUSHING!🙂🙂
+
 <br/>
 
 ###### images gotten from the [GITHUB DOCS](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)
